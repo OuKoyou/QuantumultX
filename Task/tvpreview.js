@@ -28,7 +28,7 @@ cron "04 00 * * *" script-path=https://raw.githubusercontent.com/Sunert/Scripts/
 
 By Macsuny                   
 */
-const c = 'cctv8'  //修改电视台
+const c = 'jiangxi'  //修改电视台
 
 let isQuantumultX = $task != undefined; //判断当前运行环境是否是qx
 let isSurge = $httpClient != undefined; //判断当前运行环境是否是surge
